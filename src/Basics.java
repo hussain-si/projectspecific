@@ -67,6 +67,9 @@ public class Basics {
 		
 		System.out.println(actual_address);
 		
+		System.out.println(5);
+		System.out.println(5);
+		System.out.println(5);
 		Assert.assertEquals(place,actual_address);
 		
 		
